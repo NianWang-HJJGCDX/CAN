@@ -1,8 +1,8 @@
 This is the official code for our paper "Capsule Attention Network for Hyperspectral Image Classification", which is accepted by Remote Sensing 2024. 
 
-If you think our code is helpful, please considering to star this repository. Thanks!
+If you think our code is helpful, please consider to star this repository. Thanks!
 
-My interests focus on machine learning (deep learning) and its applications to image enhancement, data clustering (classification), object recognition (tracking) etc. Please feel free to  communicate with me. If you are interested at my works, you can follow my [ResearchGate] (https://www.researchgate.net/profile/Nian-Wang-19?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19)
+My interests focus on machine learning (deep learning) and its applications to image enhancement, data clustering (classification), object recognition (tracking) etc. Please feel free to  communicate with me. If you are interested at my works, you can follow my [ResearchGate](https://www.researchgate.net/profile/Nian-Wang-19?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19)
 
 Now we detail the usage of this code!
 
