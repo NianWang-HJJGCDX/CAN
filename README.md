@@ -36,12 +36,19 @@ This work  partly relies on the following paper. We sincerely think their outsta
 If you use our code, please cite our paper by
 
 @Article{CAN,
+
 AUTHOR = {Wang, Nian and Yang, Aitao and Cui, Zhigao and Ding, Yao and Xue, Yuanliang and Su, Yanzhao},
+
 TITLE = {Capsule Attention Network for Hyperspectral Image Classification},
+
 JOURNAL = {Remote Sensing},
+
 VOLUME = {16},
+
 YEAR = {2024},
+
 NUMBER = {21},
+
 DOI = {10.3390/rs16214001}
 }
 
