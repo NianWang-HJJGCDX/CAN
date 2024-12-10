@@ -3,8 +3,6 @@ This is the official code for our paper "Capsule Attention Network for Hyperspec
 If you think our code is helpful, please consider to star this repository. Thanks!
 
 
-My interests focus on machine learning (deep learning) and its applications to image enhancement, data clustering (classification), object recognition (tracking) etc. Please feel free to  communicate with me. If you are interested at my works, you can follow my [Homepage](https://nianwang-hjjgcdx.github.io/).
-=======
 My interests focus on machine learning (deep learning) and its applications to image enhancement, data clustering (classification), object recognition (tracking) etc. Please feel free to  communicate with me. If you are interested at my works, you can get more papers and codes at my [Homepage](https://nianwang-hjjgcdx.github.io/).
 
 
