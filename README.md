@@ -30,7 +30,7 @@ We provide the Indian_pines data set. If you want to test on other data sets, pl
 For commercial use, please contact us for permission. For any problem, please also feel free to contract us. Email: nianwang04@outlook.com.
 
 # Acknowledge
-This work  partly relies on the following paper. We sincerely think their outstanding contributions.
+This work  partly relies on the following paper. We sincerely thank their outstanding contributions.
 
 [1] Sabour S, Frosst N, Hinton G E. Dynamic routing between capsules[J]. Advances in neural information processing systems, 2017, 30.
 
